@@ -1,5 +1,5 @@
 # Serendipy
-Visual step-by-step desktop quantum circuit simulator experiment.
+A visual step-by-step desktop quantum circuit simulator experiment.
 
 ![State 1](https://github.com/ietsnut/serendipy/blob/main/1.jpg?raw=true)
 ![State 2](https://github.com/ietsnut/serendipy/blob/main/2.jpg?raw=true)
